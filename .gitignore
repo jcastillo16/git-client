@@ -1,0 +1,1 @@
+node_modules/\ndist/\n.DS_Store\n.env\n.env.*\ncoverage/\n.vscode/\n.idea/\n*.log\n*.tsbuildinfo\n
